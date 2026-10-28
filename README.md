@@ -14,6 +14,8 @@ Windows 10 / 11 (64 位) · macOS (Intel 与 Apple 芯片通用) · 免费无广
 
 下载页 (国内可直接打开): **https://hongguo.235698.xyz** · 也可以到 [Releases](../../releases/latest) 下载
 
+打不开上面的链接? 用蓝奏云 (无需密码): **[wwalp.lanzout.com/b0rbj88ji](https://wwalp.lanzout.com/b0rbj88ji)**
+
 ![红果短剧电脑版: 沉浸式刷剧](docs/screenshots/recommend.png)
 
 </div>
@@ -61,7 +63,7 @@ Windows 10 / 11 (64 位) · macOS (Intel 与 Apple 芯片通用) · 免费无广
 | Windows 10 / 11 (64 位) | [下载 Windows 版](https://hongguo.235698.xyz/download/latest/windows-amd64) | `hongguo-版本号-windows-amd64.zip` |
 | macOS (Intel 与 Apple 芯片通用) | [下载 macOS 版](https://hongguo.235698.xyz/download/latest/darwin-universal) | `hongguo-版本号-macos-universal.zip` |
 
-下载慢可以到本仓库的 [Releases](../../releases/latest) 下载同样的文件.
+下载慢或打不开, 可以到本仓库的 [Releases](../../releases/latest), 或者蓝奏云目录 [wwalp.lanzout.com/b0rbj88ji](https://wwalp.lanzout.com/b0rbj88ji) (无需密码) 下载同样的文件. 蓝奏云目录里有全部版本, 新版本发布后会自动放进去.
 
 **Windows**
 
